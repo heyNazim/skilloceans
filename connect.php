@@ -304,7 +304,7 @@
 	$number = $_POST['number'];
 
   // Database connection
-	$conn = new mysqli('localhost','root', '$cX^?iT4', 'u707760839_registration'); 
+	$conn = new mysqli('localhost','u707760839_students', 'Nazim@8920573204', 'u707760839_registration'); 
 	if($conn->connect_error){
 		echo "$conn->connect_error";
 		die("Connection Failed : ". $conn->connect_error);
