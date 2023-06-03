@@ -302,9 +302,9 @@
 	$lastName = $_POST['lastName'];
 	$email = $_POST['email'];
 	$number = $_POST['number'];
-//   print_r($number);die;
-	// Database connection
-	$conn = new mysqli('localhost','u707760839_students', '$cX^?iT4', 'u707760839_registration'); 
+
+  // Database connection
+	$conn = new mysqli('localhost','root', '$cX^?iT4', 'u707760839_registration'); 
 	if($conn->connect_error){
 		echo "$conn->connect_error";
 		die("Connection Failed : ". $conn->connect_error);
