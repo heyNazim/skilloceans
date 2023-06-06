@@ -979,7 +979,7 @@ float: right;
 
 /* rishab 3ds max styling */
 .r3dsmax{
-  background-image: url(./newimages/3ds\ 3.png);
+  background-image: url(./asset1/3dsmax_.jpg);
   height: 50vh;
   background-position: start;
   background-repeat: no-repeat;
@@ -989,7 +989,7 @@ float: right;
 }
 /* sameer 3ds max styling */
 .S3DSmax{
-  background-image: url(./asset1/main\ 3dsmax\ \(1\).jpg);
+  background-image: url(./asset1/3dsmax_.jpg);
   height: 50vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -1026,7 +1026,8 @@ float: right;
 }
 /* autocad */
 .autocad{
-  background-image: url(./newimages/autocad\ \(1\).png);
+  background-image: url(./newimages/autocad-banner-main.png);
+  /* background-image: url(./newimages/autocad\ \(1\).png); */
   height: 50vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -1035,7 +1036,8 @@ float: right;
 }
 /* autocad delhi */
 .autocad-delhi{
-  background-image: url(./asset1/autocad\ poster9.jpg);
+  background-image: url(./newimages/autocad-banner-main.png);
+  /* background-image: url(./asset1/autocad\ poster9.jpg); */
   height: 50vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -1044,7 +1046,8 @@ float: right;
 }
 /* autocad mumbai */
 .autocad-mumbai{
-  background-image: url(./asset1/autocad\ poster9.jpg);
+  background-image: url(./newimages/autocad-banner-main.png);
+  /* background-image: url(./asset1/autocad\ poster9.jpg); */
   height: 50vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -1062,7 +1065,8 @@ float: right;
 }
 /* catia */
 .catia{
-  background-image: url(./asset1/MAIN\ catia.jpg);
+  /* background-image: url(./asset1/MAIN\ catia.jpg); */
+  background-image: url(./newimages/catia-software-training-banner-design-centre.jpg);
   height: 50vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -1071,7 +1075,8 @@ float: right;
 }
 /* civilcad */
 .civilcad{
-  background-image: url(./asset1/civil\ naz.jpg);
+  background-image: url(./newimages/AutocadCivil3dfeatImage-e1603115280796-main-civil.jpg);
+  /* background-image: url(./asset1/civil\ naz.jpg); */
   height: 50vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -1170,7 +1175,8 @@ float: right;
 }
 /* mold design */
 .molddesign{
-  background-image: url(./asset1/mold-design.jpg);
+  /* background-image: url(./asset1/mold-design.jpg); */
+  background-image: url(./newimages/Design-banner-9-mold_design_main.jpg);
   height: 50vh;
   background-position: center;
   background-repeat: no-repeat;
